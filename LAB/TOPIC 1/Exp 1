@@ -13,3 +13,6 @@ if result != -1:
     print("Key found at index", result)
 else:
     print("Key not found")
+
+OUTPUT:
+Key found at index 2
